@@ -1,6 +1,6 @@
 #  Canon.com/ijsetup
 
-[![Canon.com/ijsetup](getstaredd.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 Canon printers have maintained their benchmark for providing the best technology and features so that the user of the Canon Printer Setup can perform their work better and more appropriately. To setup and download the canon printer driver software. Visit **[canon.com/ijsetup](https://canoncomijetup.github.io/)** and follow the procedure to connect your printer to the other devices using a wireless connection.   
 
